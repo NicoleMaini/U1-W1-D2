@@ -1,0 +1,49 @@
+body{ 
+    margin: 2vw 0;
+    width: 100vw;
+}
+
+/* style header */
+
+header {
+    text-align: center;
+}
+.style_menu {
+    list-style-type: none;
+}
+.font {
+    font-size: 14px;
+}
+
+/* style main */
+
+main h2 {
+    margin-top: 15px;
+}
+.post {
+    margin: 3vw ;
+    padding: 0 5px;
+}
+
+table{
+    margin: 3vw auto; 
+ width: 60%;
+ border-top: 1px solid black;
+ border-bottom: 1px solid black;
+}
+caption{
+    border-top: 1px solid black;
+}
+th{
+    text-align: left;
+}
+.style_frame{
+    text-align: center;
+}
+
+
+/* style footer */
+
+footer{
+    margin: 3vw;
+}
